@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Farah KOUKI | Full-Stack & Microservices Expert
+# 👋 Hello, I'm Farah KOUKI | Full-Stack & Microservices 
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=farahkouki&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"> 
