@@ -16,7 +16,7 @@
 
 ☁️ Microservices Ecosystem
 
-<div align="center"> <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?logo=spring&logoColor=white" alt="Spring Cloud"> <img src="https://img.shields.io/badge/Eureka-Service_Discovery-blueviolet" alt="Eureka"> <img src="https://img.shields.io/badge/API_Gateway-Zuul-orange" alt="API Gateway"> <img src="https://img.shields.io/badge/Keycloak-SSO-EC5425" alt="Keycloak"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"> </div>
+<div align="center"> <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?logo=spring&logoColor=white" alt="Spring Cloud"> <img src="https://img.shields.io/badge/Eureka-Service_Discovery-blueviolet" alt="Eureka"> <img src="https://img.shields.io/badge/API_Gateway-Eureka-orange" alt="API Gateway"> <img src="https://img.shields.io/badge/Keycloak-SSO-EC5425" alt="Keycloak"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"> </div>
 
 📊 GitHub Stats
 
