@@ -18,5 +18,4 @@ class MicroservicesExpert:
             "spring_cloud": ["Eureka", "API Gateway", "Config Server"],
             "symfony": ["Doctrine", "Twig", "API Platform"],
             "devops": ["Docker", "Kubernetes", "CI/CD"]
-        } Fun fact: ...
--->
+        } 
