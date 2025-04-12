@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Farah KOUKI | Full-Stack & Microservices 
+# 👋 Hello, I'm Farah KOUKI | Full-Stack
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=farahkouki&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"> 
@@ -29,7 +29,7 @@
 
 🥇 Angular Expert (5+ projects)
 
-🚀 Deployed 5+ microservices in production
+🚀 Deployed 10+ microservices in production
 
 📚 Contributed to Open Source projects
 
