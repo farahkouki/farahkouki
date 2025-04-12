@@ -19,9 +19,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 
-**Projets Angular récents**:
-- 🏕️ [Camping-Project](https://github.com/farahkouki/Camping-Project) - Application complète de gestion de campings
-- (Ajoutez d'autres projets Angular ici)
+
 
 ### ⚙️ Backend Mastery
 <div align="center">
@@ -32,8 +30,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
 </div>
 
-**Projets Spring récents**:
-- (Ajoutez vos projets Spring/Java ici)
+
 
 ### ☁️ Microservices Ecosystem
 <div align="center">
@@ -77,6 +74,4 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://github.com/farahkouki/farahkouki/raw/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
+
