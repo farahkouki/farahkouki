@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Farah KOUKI | Full-Stack & Microservices Expert
 
-<!--
-**farahkouki/farahkouki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=farahkouki&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"> 
+  <a href="https://github.com/farahkouki?tab=followers">
+    <img src="https://img.shields.io/github/followers/farahkouki?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  <img src="https://img.shields.io/badge/Microservices-Expert-FF6C37?logo=kubernetes&logoColor=white" alt="Microservices">
+</div>
 
-Here are some ideas to get you started:
+## 🚀 Core Expertise
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+```python
+class MicroservicesExpert:
+    def __init__(self):
+        self.specialties = {
+            "architectures": ["Microservices", "SOA", "Event-Driven"],
+            "spring_cloud": ["Eureka", "API Gateway", "Config Server"],
+            "symfony": ["Doctrine", "Twig", "API Platform"],
+            "devops": ["Docker", "Kubernetes", "CI/CD"]
+        } Fun fact: ...
 -->
