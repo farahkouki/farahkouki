@@ -25,13 +25,11 @@
 🏆 Certifications & Achievements
  
   
-🎖️ Spring Professional Certified (2025)
-
-🏅 Symfony Certified Developer
+🎖️ Spring Boot Expert
 
 🥇 Angular Expert (5+ projects)
 
-🚀 Deployed 10+ microservices in production
+🚀 Deployed 5+ microservices in production
 
 📚 Contributed to Open Source projects
 
