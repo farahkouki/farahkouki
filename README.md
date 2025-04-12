@@ -36,10 +36,15 @@ graph TD
     H --> D
     
     🏆 Certifications & Achievements
+    
 🎖️ Spring Professional Certified (2025)
+
 🚀 Deployed 10+ microservices in production
+
 📚 Contributed to Spring Cloud Netflix OSS
+
 🏅 Symfony Certified Developer
+
                                                                           📫 Let's Connect
 <div align="center"> <a href="https://linkedin.com/in/yourprofile"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"> </a> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"> </a> <a href="https://your-tech-blog.com"> <img src="https://img.shields.io/badge/Tech_Blog-FF5722?logo=medium&logoColor=white"> </a> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahkouki&theme=radical" alt="GitHub Streak"> <img src="https://github-profile-trophy.vercel.app/?username=farahkouki&theme=radical&column=4" alt="Trophies"> </div> ```
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahkouki&theme=radical" alt="GitHub Streak"> <img src="https://github-profile-trophy.vercel.app/?username=farahkouki&theme=radical&column=4" alt="Trophies"> </div> 
