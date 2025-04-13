@@ -5,7 +5,7 @@
   <a href="https://github.com/farahkouki?tab=followers">
     <img src="https://img.shields.io/github/followers/farahkouki?label=Follow&style=social" alt="GitHub followers">
   </a>
-  <img src="https://img.shields.io/badge/Microservices-Expert-FF6C37?logo=kubernetes&logoColor=white" alt="Microservices">
+  <img src="https://img.shields.io/badge/Microservices-FF6C37?logo=kubernetes&logoColor=white" alt="Microservices">
 </div>
 
 ## 🛠️ Tech Stack
