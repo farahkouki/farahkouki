@@ -6,6 +6,8 @@
     <img src="https://img.shields.io/github/followers/farahkouki?label=Follow&style=social" alt="GitHub followers">
   </a>
   <img src="https://img.shields.io/badge/Microservices-FF6C37?logo=kubernetes&logoColor=white" alt="Microservices">
+ 
+  <img src="https://img.shields.io/github/stars/farahkouki?label=Stars&style=social" alt="GitHub Stars">
 </div>
 
 ## 🛠️ Tech Stack
@@ -23,7 +25,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET">
-
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" alt="Hibernate">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL">
@@ -41,7 +42,8 @@
 
 <div align="center">
   <a href="https://github.com/farahkouki">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farahkouki&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="Stats">
+  
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farahkouki&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farahkouki&layout=compact&theme=radical&hide=html,css&langs_count=8" alt="Top langs">
   </a>
 </div>
@@ -49,6 +51,9 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahkouki&theme=radical" alt="GitHub Streak">
   <img src="https://github-profile-trophy.vercel.app/?username=farahkouki&theme=radical&column=4&margin-w=15" alt="Trophies">
+  
+  <h3>🌟 My GitHub Stars</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=farahkouki&show_icons=true&theme=radical&hide=contribs,issues&hide_title=true&include_all_commits=true&custom_title=Farah's+Stars&card_width=250" alt="Stars Stats">
 </div>
 
 ## 🏆 Certifications & Achievements
@@ -57,6 +62,7 @@
 - 🥇 Angular Certified Developer
 - 🚀 15+ Microservices deployed in production
 - 📚 Active Open Source contributor
+- ⭐ 11+ GitHub Stars
 
 ## 📫 Let's Connect
 <div align="center">
@@ -70,4 +76,5 @@
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
+
 <p align="center"> ✨ <em>Développé avec ❤️ par Farah Kouki</em> ✨ </p>
