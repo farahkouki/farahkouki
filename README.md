@@ -41,7 +41,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahkouki&theme=radical" alt="GitHub Streak">
+ 
   <img src="https://github-profile-trophy.vercel.app/?username=farahkouki&theme=radical&column=4&margin-w=15" alt="Trophies">
   
   <h3>🌟 My GitHub Stars</h3>
