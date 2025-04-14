@@ -38,15 +38,7 @@
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white" alt="Kafka">
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/farahkouki">
-  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=farahkouki&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farahkouki&layout=compact&theme=radical&hide=html,css&langs_count=8" alt="Top langs">
-  </a>
-</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=farahkouki&theme=radical" alt="GitHub Streak">
