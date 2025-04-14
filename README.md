@@ -54,7 +54,7 @@
 - 🥇 Angular Certified Developer
 - 🚀 15+ Microservices deployed in production
 - 📚 Active Open Source contributor
-- ⭐ 11+ GitHub Stars
+- ⭐ 12+ GitHub Stars
 
 ## 📫 Let's Connect
 <div align="center">
