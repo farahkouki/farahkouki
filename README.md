@@ -16,8 +16,8 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Symfony-B7178C?logo=reactivex&logoColor=white" alt="Symfony">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap">
+   <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white" alt="Symfony">
+ <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 
 ### ⚙️ Backend Mastery
