@@ -43,9 +43,7 @@
  
   <img src="https://github-profile-trophy.vercel.app/?username=farahkouki&theme=radical&column=4&margin-w=15" alt="Trophies">
   
-  <h3>🌟 My GitHub Stars</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=farahkouki&show_icons=true&theme=radical&hide=contribs,issues&hide_title=true&include_all_commits=true&custom_title=Farah's+Stars&card_width=250" alt="Stars Stats">
-</div>
+  
 
 ## 🏆 Achievements
 
