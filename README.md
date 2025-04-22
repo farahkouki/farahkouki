@@ -47,10 +47,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=farahkouki&show_icons=true&theme=radical&hide=contribs,issues&hide_title=true&include_all_commits=true&custom_title=Farah's+Stars&card_width=250" alt="Stars Stats">
 </div>
 
-## 🏆 Certifications & Achievements
+## 🏆 Achievements
 
-- 🎖️ Spring Professional Certification
-- 🥇 Angular Certified Developer
+
+- 🥇 Spring Boot & Angular Developer
 - 🚀 15+ Microservices deployed in production
 - 📚 Active Open Source contributor
 - ⭐ 12+ GitHub Stars
