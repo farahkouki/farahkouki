@@ -47,7 +47,7 @@
 # 🏆 Achievements
 
 
-- 🥇 Spring Boot & Angular Developer
+- 🥇 Spring Boot Certified
 - 🚀 15+ Microservices deployed in production
 - 📚 Active Open Source contributor
 - ⭐ 12+ GitHub Stars
