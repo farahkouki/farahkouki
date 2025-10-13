@@ -22,11 +22,11 @@
 
 ### ⚙️ Backend Mastery
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
-   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
-<img src="https://img.shields.io/badge/DevOps-%23339933?logo=dev-dot-to&logoColor=white" alt="DevOps">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white&style=flat" alt="Java">
+<img src="https://img.shields.io/badge/.NET-%23512BD4?logo=dotnet&logoColor=white&style=flat" alt=".NET">
+<img src="https://img.shields.io/badge/Spring_Boot-%236DB33F?logo=spring-boot&logoColor=white&style=flat" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Node.js-%23339933?logo=nodedotjs&logoColor=white&style=flat" alt="Node.js">
+<img src="https://img.shields.io/badge/DevOps-%23339933?logo=dev-dot-to&logoColor=white&style=flat" alt="DevOps">
 
 </div>
 
