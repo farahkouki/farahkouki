@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
    <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Node.js-339933?logo=devopsdotjs&logoColor=white" alt="Devops">
+    <img src="https://img.shields.io/badge/Devops-339933?logo=devopsdotjs&logoColor=white" alt="Devops">
 
 </div>
 
