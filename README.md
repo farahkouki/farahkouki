@@ -22,11 +22,13 @@
 
 ### ⚙️ Backend Mastery
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white&style=flat" alt="Java">
+ <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white&style=flat" alt="Java">
 <img src="https://img.shields.io/badge/.NET-%23512BD4?logo=dotnet&logoColor=white&style=flat" alt=".NET">
 <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F?logo=spring-boot&logoColor=white&style=flat" alt="Spring Boot">
 <img src="https://img.shields.io/badge/Node.js-%23339933?logo=nodedotjs&logoColor=white&style=flat" alt="Node.js">
 <img src="https://img.shields.io/badge/DevOps-%23339933?logo=dev-dot-to&logoColor=white&style=flat" alt="DevOps">
+<img src="https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=white&style=flat" alt="Jenkins">
+<img src="https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white&style=flat" alt="Kubernetes">
 
 </div>
 
