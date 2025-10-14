@@ -33,14 +33,8 @@
 </div>
 
 ### ☁️DevOps & Microservices Ecosystem
-<div align="center">
-  <img src="https://img.shields.io/badge/DevOps-%23339933?logo=dev-dot-to&logoColor=white&style=flat" alt="DevOps">
-<img src="https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=white&style=flat" alt="Jenkins">
-<img src="https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white&style=flat" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?logo=spring&logoColor=white" alt="Spring Cloud">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+<div align="center"> <img src="https://img.shields.io/badge/DevOps-%23339933?logo=dev-dot-to&logoColor=white&style=flat" alt="DevOps"> <img src="https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=white&style=flat" alt="Jenkins"> <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white&style=flat" alt="Kubernetes"> <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?logo=spring&logoColor=white" alt="Spring Cloud"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="Jira"> </div>
 
-</div>
 
 
 
