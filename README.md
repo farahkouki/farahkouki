@@ -51,10 +51,11 @@
 # 🏆 Achievements
 
 
-- 🥇 Spring Boot Certified
-- 🚀 15+ Microservices deployed in production
-- 📚 Active Open Source contributor
-- ⭐ 12+ GitHub Stars
+🥇 Spring Boot Certified
+
+💡 Creator of Clock-Tree Checker – an innovative web application developed at STMicroelectronics for JSON validation and visualization
+
+🤖 AI-integrated applications – implemented predictive models and intelligent assistants in academic and personal projects
 
 ## 📫 Let's Connect
 <div align="center">
