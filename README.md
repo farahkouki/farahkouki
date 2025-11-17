@@ -61,24 +61,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=farahkouki&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
-## 🚀 Projets Phares (2025)
 
-| Projet                            | Description                                                                                   | Technologies                                      |
-|-----------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------|
-| **SkillUp** – Plateforme IA de formation | Recommandations personnalisées, résumé auto, Q&A intelligent                                | Spring Boot, FastAPI, OpenAI, Angular, MySQL      |
-| **AGPC** – Gestion de chantiers avec IA   | Prédiction délais/risques + visualisation 3D en microservices                                | Spring Boot, Angular, Docker, Kubernetes, Kafka, OpenAI |
-| **Application Mobile Voyage IA**         | Itinéraires & recommandations intelligents                                                   | Flutter, Firebase, OpenAI API, REST               |
-| **Clock-Tree Checker** – STMicroelectronics | Outil adopté en production pour validation JSON & visualisation graphique                  | Node.js, React, Material UI, Recharts, jsPDF      |
-
-## 🏆 Expériences & Réalisations
-
-- **STMicroelectronics** – Stagiaire PFE (Juil–Sep 2025)  
-  → Développement du **Clock-Tree Checker** (outil en production) + Assistant Digital IA
-- **Aptiv** – Stage Full-Stack Microservices (Été 2024)  
-  → Applications industrielles Angular/Spring Boot + Docker + Jenkins CI/CD
-- **Formatrice Bénévole** – Casablanca, Maroc (Été 2023)  
-  → Ateliers HTML, CSS, Symfony & C pour débutants
-- **Latécoère** – Stage développement (Été 2022)
 
 ## 🏅 Certifications
 - AWS Academy Graduate – AWS Cloud Foundations (2025)
