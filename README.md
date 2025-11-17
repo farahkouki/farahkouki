@@ -1,71 +1,114 @@
-# 👋 Hello, I'm Farah KOUKI | Full-Stack & AI Engineer
+# 👋 Bonjour, je suis Farah KOUKI | Ingénieure Full-Stack & Intelligence Artificielle
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=farahkouki&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"> 
+  <img src="https://komarev.com/ghpvc/?username=farahkouki&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/farahkouki?tab=followers">
-    <img src="https://img.shields.io/github/followers/farahkouki?label=Follow&style=social" alt="GitHub followers">
+    <img src="https://img.shields.io/github/followers/farahkouki?label=Follow&style=social" alt="GitHub followers" />
   </a>
-  <img src="https://img.shields.io/badge/Microservices-FF6C37?logo=kubernetes&logoColor=white" alt="Microservices">
-  <img src="https://img.shields.io/github/stars/farahkouki?label=Stars&style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/farahkouki?label=Stars&style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/badge/Full--Stack%20%26%20AI%20Engineer-FF6C37?style=flat&logo=kubernetes&logoColor=white" alt="Full-Stack & AI" />
 </div>
 
-## 🛠️ Tech Stack
+<p align="center">
+  Étudiante en 5ᵉ année à <strong>ESPRIT</strong> (Cycle Ingénieur Full-Stack & IA)<br>
+  Passionnée par l'IA générative, les architectures microservices et les solutions scalables
+</p>
 
-### 🔥 Frontend
+## 🛠️ Tech Stack & Compétences
+
+### 🎨 Frontend & Mobile
 <div align="center">
-  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular">
-  <img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white&style=flat" alt="React">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white" alt="Symfony">
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 
-### ⚙️ Backend
+### ⚙️ Backend & Frameworks
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white&style=flat" alt="Java">
-  <img src="https://img.shields.io/badge/.NET-%23512BD4?logo=dotnet&logoColor=white&style=flat" alt=".NET">
-  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F?logo=spring-boot&logoColor=white&style=flat" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Node.js-%23339933?logo=nodedotjs&logoColor=white&style=flat" alt="Node.js">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white" alt="Symfony" />
 </div>
 
-### ☁️ DevOps & Microservices
+### 🚀 DevOps, Microservices & Cloud
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white&style=flat" alt="Kubernetes">
-  <img src="https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=white&style=flat" alt="Jenkins">
-  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?logo=spring&logoColor=white" alt="Spring Cloud">
-  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="Jira">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?logo=apache-kafka&logoColor=white" alt="Kafka" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
 </div>
 
-### 🤖 AI & Machine Learning
+### 🤖 Intelligence Artificielle & Machine Learning
 <div align="center">
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?logo=ai&logoColor=white" alt="Machine Learning">
-  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI API">
-  <img src="https://img.shields.io/badge/scikit-learn-F7931E?logo=python&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-24A1DE?style=flat" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/FastAPI%20%2B%20IA-009688?logo=fastapi&logoColor=white" alt="FastAPI IA" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farahkouki&theme=radical&column=4&margin-w=15" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=farahkouki&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
-## 🏆 Achievements
+## 🚀 Projets Phares (2025)
 
-- 🥇 **Spring Boot Certified**
-- 💡 **Clock-Tree Checker** – Web app innovante développée chez STMicroelectronics pour validation JSON et visualisation
-- 🤖 **Projets IA** – Modèles prédictifs et assistants intelligents dans des projets académiques et personnels
-- 🌱 **Formatrice bénévole** – Animation d’ateliers HTML, CSS, Symfony et C à Casablanca
+| Projet                            | Description                                                                                   | Technologies                                      |
+|-----------------------------------|-----------------------------------------------------------------------------------------------|----------------------------------------------------|
+| **SkillUp** – Plateforme IA de formation | Recommandations personnalisées, résumé auto, Q&A intelligent                                | Spring Boot, FastAPI, OpenAI, Angular, MySQL      |
+| **AGPC** – Gestion de chantiers avec IA   | Prédiction délais/risques + visualisation 3D en microservices                                | Spring Boot, Angular, Docker, Kubernetes, Kafka, OpenAI |
+| **Application Mobile Voyage IA**         | Itinéraires & recommandations intelligents                                                   | Flutter, Firebase, OpenAI API, REST               |
+| **Clock-Tree Checker** – STMicroelectronics | Outil adopté en production pour validation JSON & visualisation graphique                  | Node.js, React, Material UI, Recharts, jsPDF      |
 
-## 📫 Let's Connect
+## 🏆 Expériences & Réalisations
+
+- **STMicroelectronics** – Stagiaire PFE (Juil–Sep 2025)  
+  → Développement du **Clock-Tree Checker** (outil en production) + Assistant Digital IA
+- **Aptiv** – Stage Full-Stack Microservices (Été 2024)  
+  → Applications industrielles Angular/Spring Boot + Docker + Jenkins CI/CD
+- **Formatrice Bénévole** – Casablanca, Maroc (Été 2023)  
+  → Ateliers HTML, CSS, Symfony & C pour débutants
+- **Latécoère** – Stage développement (Été 2022)
+
+## 🏅 Certifications
+- AWS Academy Graduate – AWS Cloud Foundations (2025)
+- Hashgraph Developer (2025)
+- Java Spring MVC Expert – Alison (2025)
+- CCNA: Switching, Routing & Wireless Essentials (2024)
+
+## 🌍 Langues
+<div align="center">
+  <img src="https://img.shields.io/badge/Arabe-Natif-success" alt="Arabe" />
+  <img src="https://img.shields.io/badge/Français-B2-blue" alt="Français" />
+  <img src="https://img.shields.io/badge/Anglais-B2-blue" alt="Anglais" />
+</div>
+
+## 📫 Me contacter
 <div align="center">
   <a href="https://www.linkedin.com/in/farah-kouki-59882b249/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:Farah.Kouki@esprit.tn">
+    <img src="https://img.shields.io/badge/Email-ESPRIT-0A0A0A?logo=gmail&logoColor=white" alt="Email ESPRIT" />
   </a>
   <a href="mailto:farahkouki026@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email%20Perso-D14836?logo=gmail&logoColor=white" alt="Email perso" />
   </a>
   <a href="https://github.com/farahkouki">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
-<p align="center"> ✨ <em>Développé avec ❤️ par Farah Kouki</em> ✨ </p>
+<p align="center">
+  <em>✨ Développé avec passion et beaucoup de ☕ par Farah Kouki ✨</em>
+</p>
