@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Farah KOUKI | Full-Stack Developer
+# 👋 Hello, I'm Farah KOUKI | Full-Stack & AI Engineer
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=farahkouki&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views"> 
@@ -6,56 +6,54 @@
     <img src="https://img.shields.io/github/followers/farahkouki?label=Follow&style=social" alt="GitHub followers">
   </a>
   <img src="https://img.shields.io/badge/Microservices-FF6C37?logo=kubernetes&logoColor=white" alt="Microservices">
- 
   <img src="https://img.shields.io/github/stars/farahkouki?label=Stars&style=social" alt="GitHub Stars">
 </div>
 
 ## 🛠️ Tech Stack
 
-### 🔥 Frontend Expertise
+### 🔥 Frontend
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/React-%2361DAFB?logo=react&logoColor=white&style=flat" alt="React">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript">
-   <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white" alt="Symfony">
- <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap">
-  
+  <img src="https://img.shields.io/badge/Symfony-000000?logo=symfony&logoColor=white" alt="Symfony">
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap">
 </div>
 
-### ⚙️ Backend Mastery
+### ⚙️ Backend
 <div align="center">
- <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white&style=flat" alt="Java">
-<img src="https://img.shields.io/badge/.NET-%23512BD4?logo=dotnet&logoColor=white&style=flat" alt=".NET">
-<img src="https://img.shields.io/badge/Spring_Boot-%236DB33F?logo=spring-boot&logoColor=white&style=flat" alt="Spring Boot">
-<img src="https://img.shields.io/badge/Node.js-%23339933?logo=nodedotjs&logoColor=white&style=flat" alt="Node.js">
-
-
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white&style=flat" alt="Java">
+  <img src="https://img.shields.io/badge/.NET-%23512BD4?logo=dotnet&logoColor=white&style=flat" alt=".NET">
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F?logo=spring-boot&logoColor=white&style=flat" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Node.js-%23339933?logo=nodedotjs&logoColor=white&style=flat" alt="Node.js">
 </div>
 
-### ☁️DevOps & Microservices Ecosystem
-<div align="center"> <img src="https://img.shields.io/badge/DevOps-%23339933?logo=dev-dot-to&logoColor=white&style=flat" alt="DevOps"> <img src="https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=white&style=flat" alt="Jenkins"> <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white&style=flat" alt="Kubernetes"> <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?logo=spring&logoColor=white" alt="Spring Cloud"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="Jira"> </div>
+### ☁️ DevOps & Microservices
+<div align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5?logo=kubernetes&logoColor=white&style=flat" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=white&style=flat" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?logo=spring&logoColor=white" alt="Spring Cloud">
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white" alt="Jira">
+</div>
 
-### 🤖 Machine Learning & Artificial Intelligence
-<div align="center"> 
- 
- 
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?logo=ai&logoColor=white" alt="Machine Learning"> </div>
-
+### 🤖 AI & Machine Learning
+<div align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?logo=ai&logoColor=white" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" alt="OpenAI API">
+  <img src="https://img.shields.io/badge/scikit-learn-F7931E?logo=python&logoColor=white" alt="scikit-learn">
+</div>
 
 <div align="center">
- 
   <img src="https://github-profile-trophy.vercel.app/?username=farahkouki&theme=radical&column=4&margin-w=15" alt="Trophies">
-  
-  
+</div>
 
-# 🏆 Achievements
+## 🏆 Achievements
 
-
-🥇 Spring Boot Certified
-
-💡 Creator of Clock-Tree Checker – an innovative web application developed at STMicroelectronics for JSON validation and visualization
-
-🤖 AI-integrated applications – implemented predictive models and intelligent assistants in academic and personal projects
+- 🥇 **Spring Boot Certified**
+- 💡 **Clock-Tree Checker** – Web app innovante développée chez STMicroelectronics pour validation JSON et visualisation
+- 🤖 **Projets IA** – Modèles prédictifs et assistants intelligents dans des projets académiques et personnels
+- 🌱 **Formatrice bénévole** – Animation d’ateliers HTML, CSS, Symfony et C à Casablanca
 
 ## 📫 Let's Connect
 <div align="center">
