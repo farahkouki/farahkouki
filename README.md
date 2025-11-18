@@ -57,11 +57,6 @@
   <img src="https://img.shields.io/badge/FastAPI%20%2B%20IA-009688?logo=fastapi&logoColor=white" alt="FastAPI IA" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=farahkouki&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-
 
 ## 🏅 Certifications
 - AWS Academy Graduate – AWS Cloud Foundations (2025)
