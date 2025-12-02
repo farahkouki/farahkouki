@@ -1,9 +1,7 @@
 # 👋 Bonjour, je suis Farah KOUKI | Ingénieure Full-Stack & Intelligence Artificielle
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farahkouki&layout=compact&theme=radical)
-
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=farahkouki&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  ![Profile views](https://komarev.com/ghpvc/?username=farahkouki&label=Profile%20Views&color=0e75b6&style=flat)
   <a href="https://github.com/farahkouki?tab=followers">
     <img src="https://img.shields.io/github/followers/farahkouki?label=Follow&style=social" alt="GitHub followers" />
   </a>
@@ -15,6 +13,16 @@
   Étudiante en 5ᵉ année à <strong>ESPRIT</strong> (Cycle Ingénieur Full-Stack & IA)<br>
   Passionnée par l'IA générative, les architectures microservices et les solutions scalables
 </p>
+
+---
+
+## 📊 Top Langs / Pourcentage d’utilisation
+
+<div align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farahkouki&layout=compact&theme=radical)
+</div>
+
+---
 
 ## 🛠️ Tech Stack & Compétences
 
@@ -43,7 +51,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" />
-
   <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=white" alt="Jenkins" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" />
@@ -59,13 +66,15 @@
   <img src="https://img.shields.io/badge/FastAPI%20%2B%20IA-009688?logo=fastapi&logoColor=white" alt="FastAPI IA" />
 </div>
 
+---
 
 ## 🏅 Certifications
 - AWS Academy Graduate – AWS Cloud Foundations (2025)
 - Hashgraph Developer (2025)
 - Java Spring MVC Expert – Alison (2025)
 - CCNA: Switching, Routing & Wireless Essentials (2024)
-  
+
+---
 
 ## 🌍 Langues
 <div align="center">
@@ -73,6 +82,8 @@
   <img src="https://img.shields.io/badge/Français-B2-blue" alt="Français" />
   <img src="https://img.shields.io/badge/Anglais-B2-blue" alt="Anglais" />
 </div>
+
+---
 
 ## 📫 Me contacter
 <div align="center">
