@@ -1,4 +1,6 @@
 # 👋 Bonjour, je suis Farah KOUKI | Ingénieure Full-Stack & Intelligence Artificielle
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farahkouki&layout=compact&theme=radical)
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=farahkouki&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
@@ -63,6 +65,7 @@
 - Hashgraph Developer (2025)
 - Java Spring MVC Expert – Alison (2025)
 - CCNA: Switching, Routing & Wireless Essentials (2024)
+  
 
 ## 🌍 Langues
 <div align="center">
